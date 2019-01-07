@@ -1,0 +1,14 @@
+C:\Users\alexa\source\repos\VehicleApplication\VehicleApplication\bin\Debug\netcoreapp2.1\VehicleApplication.deps.json
+C:\Users\alexa\source\repos\VehicleApplication\VehicleApplication\bin\Debug\netcoreapp2.1\VehicleApplication.runtimeconfig.json
+C:\Users\alexa\source\repos\VehicleApplication\VehicleApplication\bin\Debug\netcoreapp2.1\VehicleApplication.runtimeconfig.dev.json
+C:\Users\alexa\source\repos\VehicleApplication\VehicleApplication\bin\Debug\netcoreapp2.1\VehicleApplication.dll
+C:\Users\alexa\source\repos\VehicleApplication\VehicleApplication\bin\Debug\netcoreapp2.1\VehicleApplication.pdb
+C:\Users\alexa\source\repos\VehicleApplication\VehicleApplication\bin\Debug\netcoreapp2.1\VechiclesClassLibrary.dll
+C:\Users\alexa\source\repos\VehicleApplication\VehicleApplication\bin\Debug\netcoreapp2.1\VechiclesClassLibrary.pdb
+C:\Users\alexa\source\repos\VehicleApplication\VehicleApplication\obj\Debug\netcoreapp2.1\VehicleApplication.csprojAssemblyReference.cache
+C:\Users\alexa\source\repos\VehicleApplication\VehicleApplication\obj\Debug\netcoreapp2.1\VehicleApplication.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\VehicleApplication\VehicleApplication\obj\Debug\netcoreapp2.1\VehicleApplication.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\VehicleApplication\VehicleApplication\obj\Debug\netcoreapp2.1\VehicleApplication.AssemblyInfo.cs
+C:\Users\alexa\source\repos\VehicleApplication\VehicleApplication\obj\Debug\netcoreapp2.1\VehicleApplication.csproj.CopyComplete
+C:\Users\alexa\source\repos\VehicleApplication\VehicleApplication\obj\Debug\netcoreapp2.1\VehicleApplication.dll
+C:\Users\alexa\source\repos\VehicleApplication\VehicleApplication\obj\Debug\netcoreapp2.1\VehicleApplication.pdb
